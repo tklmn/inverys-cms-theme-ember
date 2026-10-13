@@ -1,0 +1,17 @@
+{
+    "bomFormat": "CycloneDX",
+    "specVersion": "1.5",
+    "metadata": {
+        "component": {
+            "type": "library",
+            "name": "inverys/ember-theme",
+            "version": "1.0.0",
+            "description": "A modern dark theme for Inverys CMS with warm amber accents.",
+            "purl": "pkg:composer/inverys/ember-theme@1.0.0",
+            "licenses": [
+                { "license": { "id": "MIT" } }
+            ]
+        }
+    },
+    "components": []
+}

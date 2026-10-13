@@ -1,0 +1,15 @@
+{
+    "name": "inverys/ember-theme",
+    "description": "Ember - a dark theme for Inverys CMS with warm amber accents, clean, lightweight and easy to customize.",
+    "type": "inverys-theme",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        { "name": "Tom Kilimann", "email": "tkilimann@icloud.com" }
+    ],
+    "extra": {
+        "inverys": {
+            "slug": "ember"
+        }
+    }
+}

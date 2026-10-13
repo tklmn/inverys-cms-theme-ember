@@ -1,0 +1,67 @@
+{
+    "slug": "ember",
+    "name": "Ember",
+    "version": "1.0.0",
+    "description": "A dark theme with warm amber accents on a true-black base.",
+    "author": "Tom Kilimann",
+    "repository": "tklmn/inverys-cms-theme-ember",
+    "screenshot": "assets/screenshot.png",
+    "supports_dark_mode": true,
+    "editable": true,
+    "settings": {
+        "accent_color": {
+            "type": "color",
+            "label": "Accent Color",
+            "group": "Colors",
+            "default": "#d97706"
+        },
+        "logo_url": {
+            "type": "image",
+            "label": "Logo",
+            "group": "Branding",
+            "default": ""
+        },
+        "tagline": {
+            "type": "text",
+            "label": "Tagline",
+            "group": "Branding",
+            "default": "Built with Inverys CMS"
+        },
+        "footer_text": {
+            "type": "text",
+            "label": "Footer Text",
+            "group": "Footer",
+            "default": ""
+        },
+        "show_page_title": {
+            "type": "boolean",
+            "label": "Show Page Title",
+            "group": "Layout",
+            "default": true
+        },
+        "show_breadcrumbs": {
+            "type": "boolean",
+            "label": "Show Breadcrumbs",
+            "group": "Layout",
+            "default": true
+        },
+        "show_search": {
+            "type": "boolean",
+            "label": "Show Search",
+            "group": "Navigation",
+            "default": true
+        },
+        "show_profile": {
+            "type": "boolean",
+            "label": "Show Profile Link",
+            "group": "Navigation",
+            "default": true
+        },
+        "show_logout": {
+            "type": "boolean",
+            "label": "Show Logout Button",
+            "group": "Navigation",
+            "default": true
+        }
+    }
+}
